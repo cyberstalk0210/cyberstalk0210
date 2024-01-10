@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-10T05:55:55.867Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="GND_s4ZJNZMfr21_7SaG" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-10T05:57:07.970Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="QYg9QrWEwZmcRc0984Y6" version="22.1.18" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1500" dy="813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1235" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -48,8 +48,14 @@
         <mxCell id="oBnO-SRhFLb10J7weYcZ-5" value="1 ta shart kiritiladi&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="150" y="270" width="180" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="oBnO-SRhFLb10J7weYcZ-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oBnO-SRhFLb10J7weYcZ-7" target="oBnO-SRhFLb10J7weYcZ-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oBnO-SRhFLb10J7weYcZ-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oBnO-SRhFLb10J7weYcZ-7" target="oBnO-SRhFLb10J7weYcZ-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="oBnO-SRhFLb10J7weYcZ-7" value="5ta shart kiritiladi" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="480" y="270" width="177" height="60" as="geometry" />
+          <mxGeometry x="680" y="270" width="177" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oBnO-SRhFLb10J7weYcZ-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oBnO-SRhFLb10J7weYcZ-9" target="oBnO-SRhFLb10J7weYcZ-19">
           <mxGeometry relative="1" as="geometry">
@@ -101,6 +107,57 @@
         </mxCell>
         <mxCell id="oBnO-SRhFLb10J7weYcZ-26" value="musoboqa boshlanishi" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="169.995" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oBnO-SRhFLb10J7weYcZ-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oBnO-SRhFLb10J7weYcZ-32" target="oBnO-SRhFLb10J7weYcZ-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="611" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oBnO-SRhFLb10J7weYcZ-32" value="Jamo bo&#39;lib qatnashish&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="551" y="440" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oBnO-SRhFLb10J7weYcZ-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oBnO-SRhFLb10J7weYcZ-34" target="oBnO-SRhFLb10J7weYcZ-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oBnO-SRhFLb10J7weYcZ-34" value="Yakka bo&#39;lib qatnashish" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="820" y="440" width="155" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oBnO-SRhFLb10J7weYcZ-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oBnO-SRhFLb10J7weYcZ-36" target="oBnO-SRhFLb10J7weYcZ-43">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="611" y="640" />
+              <mxPoint x="750" y="640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oBnO-SRhFLb10J7weYcZ-36" value="jamolar kiritiladi" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="581" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oBnO-SRhFLb10J7weYcZ-37" value="z" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oBnO-SRhFLb10J7weYcZ-38" target="oBnO-SRhFLb10J7weYcZ-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oBnO-SRhFLb10J7weYcZ-38" value="Turnir jadvali" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="686.99" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oBnO-SRhFLb10J7weYcZ-39" value="Tugash" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="667" y="920" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oBnO-SRhFLb10J7weYcZ-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oBnO-SRhFLb10J7weYcZ-41" target="oBnO-SRhFLb10J7weYcZ-43">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="858" y="640" />
+              <mxPoint x="750" y="640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oBnO-SRhFLb10J7weYcZ-41" value="Ishtirokchilar kiritladi" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="810.62" y="565" width="173.75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oBnO-SRhFLb10J7weYcZ-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oBnO-SRhFLb10J7weYcZ-43" target="oBnO-SRhFLb10J7weYcZ-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oBnO-SRhFLb10J7weYcZ-43" value="musoboqa boshlanishi" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="686.995" y="670" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
