@@ -1,16 +1,16 @@
 ### <div align="center">I'm Anvarbek a full-time Frontend and Java backend developer 👨‍💻 working remotely since 2022 🚀</div>  
   
 
-- *🌪️I'm currently working on something cool 😉*  
+- 🌪️I'm currently working on something cool 😉
   
 
-- *🌱 I’m currently learning Java and Spring*  
+- 🌱 I’m currently learning Java and Spring  
   
 
-- *⚡ Fun fact: I use tabs over spaces*  
+- ⚡ Fun fact: I use tabs over spaces
   
 
-- *💬Ask me about anything related to JavaScript / Java*  
+- 💬Ask me about anything related to JavaScript / Java 
   
 
 <br/>  
