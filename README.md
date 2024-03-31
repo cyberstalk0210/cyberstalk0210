@@ -1,16 +1,16 @@
 ### <div align="center">I'm Anvarbek a full-time Frontend and Java backend developer 👨‍💻 working remotely since 2022 🚀</div>  
   
 
-- 🌪️I'm currently working on something cool 😉
+- 🌪️I'm currently working on something cool 😉  
   
 
 - 🌱 I’m currently learning Java and Spring  
   
 
-- ⚡ Fun fact: I use tabs over spaces
+- ⚡ Fun fact: I use tabs over spaces  
   
 
-- 💬Ask me about anything related to JavaScript / Java 
+- *💬Ask me about anything related to JavaScript / Java*  
   
 
 <br/>  
@@ -105,7 +105,7 @@
 <br/>  
 
 <div align="center">
-            <a href="[https://www.buymeacoffee.com/buymeacoffee.com/AnvarbeDevelop](https://www.buymeacoffee.com/AnvarbeDevelop)" target="_blank" style="display: inline-block;">
+            <a href="https://www.buymeacoffee.com/AnvarbeDevelop" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
                     align="center"
