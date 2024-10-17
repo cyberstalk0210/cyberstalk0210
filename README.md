@@ -26,6 +26,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/AnvarbeDevelop"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="AnvarbeDevelop" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cyberstalk0210&show_icons=true&locale=en&layout=compact" alt="cyberstalk0210" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cyberstalk0210&show_icons=true&locale=en&layout=compact" alt="cyberstalk0210" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cyberstalk0210&show_icons=true&locale=en" alt="cyberstalk0210" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cyberstalk0210&" alt="cyberstalk0210" /></p>
